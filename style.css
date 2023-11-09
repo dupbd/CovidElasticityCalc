@@ -1,0 +1,21 @@
+.cta {
+    text-decoration: none;
+    padding: 20px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.u-mb20 {
+    margin-bottom: 40px;
+}
+.flexRow {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.mw700 {
+    max-width: 700px;
+    margin: auto;
+}
